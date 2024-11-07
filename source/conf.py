@@ -14,7 +14,10 @@ author = 'The Dataverse Project'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ["myst_parser"]
+extensions = [
+  "myst_parser",
+  "sphinx_reredirects",
+]
 
 templates_path = ['_templates']
 exclude_patterns = []
@@ -43,3 +46,7 @@ html_context = {
 }
 # see use_edit_page_button, which we use instead
 html_show_sourcelink = False
+
+redirects = {
+     "community-calls/index": "../community/calls"
+}

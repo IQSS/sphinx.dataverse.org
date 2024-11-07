@@ -48,5 +48,9 @@ html_context = {
 html_show_sourcelink = False
 
 redirects = {
-     "community-calls/index": "../community/calls"
+     "community-calls/index": "../community/calls",
+     "researchers/index": "../about/best-practices/researchers",
+     "journals/index": "../about/best-practices/journals",
+     "institutions/index": "../about/best-practices/institutions",
+     "developers/index": "../about/best-practices/developers",
 }

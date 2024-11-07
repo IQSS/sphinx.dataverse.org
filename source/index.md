@@ -2,10 +2,10 @@
 
 Open source research data repository software 
 
-- [Researchers](researchers/index)
-- [Journals](journals/index)
-- [Institutions](institutions/index)
-- [Developers](developers/index)
+- [Researchers](about/getting-started/researchers/index)
+- [Journals](about/getting-started/journals/index)
+- [Institutions](about/getting-started/institutions/index)
+- [Developers](about/getting-started/developers/index)
 
 ```{toctree}
 :hidden:
@@ -14,8 +14,4 @@ community/index
 best-practices/index
 software/index
 contact/index
-researchers/index
-journals/index
-institutions/index
-developers/index
 ```

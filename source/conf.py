@@ -34,9 +34,9 @@ html_theme_options = {
   "header_links_before_dropdown": 5,
   # see https://pydata-sphinx-theme.readthedocs.io/en/stable/user_guide/source-buttons.html
   "use_edit_page_button": True,
-  "external_links": [
-      {"name": "Working Groups", "url": "https://www.gdcc.io/working-groups.html"}
-  ]
+#  "external_links": [
+#      {"name": "Working Groups", "url": "https://www.gdcc.io/working-groups.html"}
+#  ]
 }
 html_context = {
     "github_user": "IQSS",

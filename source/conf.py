@@ -54,3 +54,6 @@ redirects = {
      "institutions/index": "../about/best-practices/institutions",
      "developers/index": "../about/best-practices/developers",
 }
+
+# https://myst-parser.readthedocs.io/en/latest/configuration.html
+myst_links_external_new_tab = True

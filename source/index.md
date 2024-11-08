@@ -7,7 +7,10 @@ Open source research data repository software
 - [Institutions](quickstarts/institutions/index): Establish a research data management solution for your community. Federate with a growing list of Dataverse repositories worldwide for increased discoverability of your community’s data. Participate in the drive to set norms for sharing, preserving, citing, exploring, and analyzing research data. Want to install a Dataverse repository?
 - [Developers](quickstarts/developers/index): Participate in a vibrant and growing community that is helping to drive the norms for sharing, preserving, citing, exploring, and analyzing research data. Contribute code extensions, documentation, testing, and/or standards. Integrate research analysis, visualization and exploration tools, or other research and data archival systems with the Dataverse Project. Want to contribute?
 
-For a map of Dataverse installations around the world, see [installations](community/installations/index).
+
+Dataverse Repositories - A World View
+
+<iframe src="https://iqss.github.io/dataverse-installations/map.html" width="980" height="560" frameborder="0" scrolling="no" style="overflow:hidden;"></iframe>
 
 ```{toctree}
 :hidden:

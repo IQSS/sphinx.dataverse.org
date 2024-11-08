@@ -10,7 +10,7 @@
 
 <a href="/quickstarts/developers"><img src="_static/_images/developers.png" align="left" style="margin: 10px;"></a> [Developers](quickstarts/developers/index): Participate in a vibrant and growing community that is helping to drive the norms for sharing, preserving, citing, exploring, and analyzing research data. Contribute code extensions, documentation, testing, and/or standards. Integrate research analysis, visualization and exploration tools, or other research and data archival systems with the Dataverse Project. [Want to contribute?](quickstarts/developers/index)
 
-Dataverse Repositories - A World View
+Dataverse [Installations](community/installations/index) - A World View
 
 <iframe src="https://iqss.github.io/dataverse-installations/map.html" width="980" height="560" frameborder="0" scrolling="no" style="overflow:hidden;"></iframe>
 

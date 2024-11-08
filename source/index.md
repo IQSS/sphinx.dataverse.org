@@ -15,5 +15,7 @@ about/index
 quickstarts/index
 community/index
 software/index
+project/index
+learn/index
 contact/index
 ```

@@ -6,6 +6,8 @@ Feel free to watch a little [DataverseTV](dataversetv/index).
 
 All are welcome to join our [working groups](working-groups/index).
 
+Your institution can become a member of the [Global Dataverse Community Consortium](gdcc/index).
+
 ```{toctree}
 :hidden:
 installations/index.md
@@ -13,4 +15,6 @@ calls/index.md
 events/index.md
 dataversetv/index.md
 working-groups/index.md
+gdcc/index.md
+code-of-conduct/index.md
 ```

@@ -1,6 +1,6 @@
 # The Dataverse Project
 
-Open source research data repository software 
+**Open source research data repository software** 
 
 <a href="/quickstarts/researchers"><img src="_static/_images/researchers.png" align="left" style="margin: 10px;"></a> [Researchers](quickstarts/researchers/index): Enjoy full control over your data. Receive web visibility, academic credit, and increased citation counts. A personal Dataverse collection is easy to set up, allows you to display your data on your personal website, can be branded uniquely as your research program, makes your data more discoverable to the research community, and satisfies data management plans. [Want to set up your personal Dataverse collection?](quickstarts/researchers/index)
 

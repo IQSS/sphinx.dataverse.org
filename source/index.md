@@ -14,6 +14,8 @@ Dataverse [Installations](community/installations/index) - A World View
 
 <iframe src="https://iqss.github.io/dataverse-installations/map.html" width="980" height="560" frameborder="0" scrolling="no" style="overflow:hidden;"></iframe>
 
+[View More Metrics](https://metrics.dataverse.org)
+
 ```{toctree}
 :hidden:
 about/index
